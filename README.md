@@ -1,4 +1,4 @@
-# QPI
+# Computational Imaging
 
 # General Light Microscopy 
 
@@ -7,3 +7,7 @@
 # MIT Optics Class 
 
 - Prof.George Barbastathis (https://www.youtube.com/watch?v=IYBYmOVmICg)
+
+# UC Berkeley Prof. Laura Waller
+
+- https://www.youtube.com/watch?v=nlMqwWDLnfA&t=1540s
