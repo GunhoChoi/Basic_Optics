@@ -1,5 +1,9 @@
 # Computational Imaging
 
+# Optics Basic
+
+- https://youtu.be/GE-VeEQFqX4
+
 # General Light Microscopy 
 
 - https://www.ibiology.org/online-biology-courses/microscopy-series/
