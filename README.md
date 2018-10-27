@@ -1,4 +1,10 @@
-# Computational Imaging
+# Physics & Optics
+
+# MIT Physics Class by Professor Walter Lewin
+
+- [8.01 Physics 1](https://youtu.be/wWnfJ0-xXRE)
+- [8.02 Physics 1](https://youtu.be/rtlJoXxlSFE)
+
 
 # Optics Basic
 
