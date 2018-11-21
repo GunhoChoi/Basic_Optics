@@ -2,27 +2,27 @@
 
 # Lectures and videos
 
-## MIT Physics Class by Professor Walter Lewin
+- MIT Physics Class by Professor Walter Lewin
 
-- [8.01 Physics 1](https://youtu.be/wWnfJ0-xXRE)
-- [8.02 Physics 1](https://youtu.be/rtlJoXxlSFE)
+  - [8.01 Physics 1](https://youtu.be/wWnfJ0-xXRE)
+  - [8.02 Physics 1](https://youtu.be/rtlJoXxlSFE)
 
 
-## Optics Basic
+- Optics Basic
 
-- https://youtu.be/GE-VeEQFqX4
+  - https://youtu.be/GE-VeEQFqX4
 
-## General Light Microscopy 
+- General Light Microscopy 
 
-- https://www.ibiology.org/online-biology-courses/microscopy-series/
+  - https://www.ibiology.org/online-biology-courses/microscopy-series/
 
-## MIT Optics Class 
+- MIT Optics Class 
 
-- Prof.George Barbastathis (https://www.youtube.com/watch?v=IYBYmOVmICg)
+  - Prof.George Barbastathis (https://www.youtube.com/watch?v=IYBYmOVmICg)
 
-## UC Berkeley Prof. Laura Waller
+- UC Berkeley Prof. Laura Waller
 
-- https://www.youtube.com/watch?v=nlMqwWDLnfA&t=1540s
+  - https://www.youtube.com/watch?v=nlMqwWDLnfA&t=1540s
 
 
 # Questions
