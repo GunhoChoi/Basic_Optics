@@ -4,6 +4,7 @@
 
 - [Crash Course Physics](https://www.youtube.com/watch?v=ZM8ECpBuQYE&list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV)
 - [Geometric Optics](https://www.youtube.com/watch?v=Oh4m8Ees-3Q)
+- [Wave & Optics](https://www.youtube.com/watch?v=wbUflBnkuiU&list=PLSrKSt8xhLVrRO5MF6hksLfu2UeZrIiYu)
 
 # Lectures 
 
