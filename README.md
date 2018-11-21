@@ -24,6 +24,9 @@
 
   - https://www.youtube.com/watch?v=nlMqwWDLnfA&t=1540s
 
+# Blogs
+
+- [Olympus Microscopy Research Center](https://www.olympus-lifescience.com/en/microscope-resource/)
 
 # Questions
 
