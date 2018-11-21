@@ -1,6 +1,10 @@
 # Physics & Optics
 
-# Lectures and videos
+# Videos
+
+- [Geometric Optics](https://www.youtube.com/watch?v=Oh4m8Ees-3Q)
+
+# Lectures 
 
 - MIT Physics Class by Professor Walter Lewin
 
