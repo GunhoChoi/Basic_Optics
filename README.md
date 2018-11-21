@@ -21,3 +21,9 @@
 # UC Berkeley Prof. Laura Waller
 
 - https://www.youtube.com/watch?v=nlMqwWDLnfA&t=1540s
+
+
+# Question
+
+1. Why PSF is more spreaded on z-axis? Can we fix this?
+2. Why Camera sensors are on a flat plane? why not spherical shape like eyeballs?
