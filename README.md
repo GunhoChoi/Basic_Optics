@@ -5,6 +5,7 @@
 - [Crash Course Physics](https://www.youtube.com/watch?v=ZM8ECpBuQYE&list=PL8dPuuaLjXtN0ge7yDk_UA0ldZJdhwkoV)
 - [Geometric Optics](https://www.youtube.com/watch?v=Oh4m8Ees-3Q)
 - [Wave & Optics](https://www.youtube.com/watch?v=wbUflBnkuiU&list=PLSrKSt8xhLVrRO5MF6hksLfu2UeZrIiYu)
+- [EO Imaging Lab](https://www.youtube.com/watch?v=RfgDUV_-KP4&l)
 
 # Lectures 
 
@@ -27,6 +28,10 @@
 # Blogs
 
 - [Olympus Microscopy Research Center](https://www.olympus-lifescience.com/en/microscope-resource/)
+
+# Bright Field & Dark Field
+
+- https://www.youtube.com/watch?v=4RCQhrd02Ug
 
 # Aberrations
 
