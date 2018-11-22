@@ -33,6 +33,10 @@
 
 - https://www.youtube.com/watch?v=4RCQhrd02Ug
 
+# Polarization of light
+
+- [Polarization of light](https://www.youtube.com/watch?v=6_C8KyU67RU)
+
 # Aberrations
 
 - Chromatic
