@@ -29,6 +29,10 @@
 
 - [Olympus Microscopy Research Center](https://www.olympus-lifescience.com/en/microscope-resource/)
 
+# Phase Retrieval
+
+- [50 years of phase retrieval](https://www.youtube.com/watch?reload=9&v=qpta3UJLSdA)
+
 # Bright Field & Dark Field
 
 - https://www.youtube.com/watch?v=4RCQhrd02Ug
