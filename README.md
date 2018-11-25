@@ -20,7 +20,7 @@
   - https://www.ibiology.org/online-biology-courses/microscopy-series/
 
 - MIT Optics Class 
-  - Prof.George Barbastathis (https://www.youtube.com/watch?v=IYBYmOVmICg)
+  - Prof.George Barbastathis (https://www.youtube.com/watch?v=IYBYmOVmICg&list=PLEA084AC2DD3CEC09)
 
 - UC Berkeley Prof. Laura Waller
   - https://www.youtube.com/watch?v=nlMqwWDLnfA&t=1540s
