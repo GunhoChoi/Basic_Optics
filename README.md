@@ -21,6 +21,7 @@
 
 - MIT Optics Class 
   - Prof.George Barbastathis (https://www.youtube.com/watch?v=IYBYmOVmICg&list=PLEA084AC2DD3CEC09)
+  - Same from MIT website (https://ocw.mit.edu/courses/mechanical-engineering/2-71-optics-spring-2009/video-lectures/)
 
 - UC Berkeley Prof. Laura Waller
   - https://www.youtube.com/watch?v=nlMqwWDLnfA&t=1540s
