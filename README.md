@@ -41,6 +41,10 @@
 
 - [Polarization of light](https://www.youtube.com/watch?v=6_C8KyU67RU)
 
+# Fourier Ptychography
+
+- [Colloquium: Guoan Zheng - Fourier ptychographic imaging via neural network modeling](https://www.youtube.com/watch?v=hece_x37ITg)
+
 # Aberrations
 
 - Chromatic
