@@ -38,6 +38,10 @@
 
 - https://www.youtube.com/watch?v=4RCQhrd02Ug
 
+# Spectroscopic Imaging
+
+- [What is Spectroscopic Imaging](https://www.youtube.com/watch?reload=9&v=LuDFIPxDUaI)
+
 # Polarization of light
 
 - [Polarization of light](https://www.youtube.com/watch?v=6_C8KyU67RU)
