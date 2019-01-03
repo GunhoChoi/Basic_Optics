@@ -67,3 +67,4 @@
 1. Why PSF is more spreaded on z-axis? Can we fix this?
 2. Why Camera sensors are on a flat plane? why not spherical shape like eyeballs?
 3. Why does PSF get broader as high frequency data gets eliminated?
+4. How does convolution theorem holds true?
