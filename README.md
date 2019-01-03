@@ -38,6 +38,17 @@
 
 - [50 years of phase retrieval](https://www.youtube.com/watch?reload=9&v=qpta3UJLSdA)
 
+# Confocal Microscope vs Wide-field Microscope
+
+- [Wide-field Microscopy](https://www.leica-microsystems.com/science-lab/introduction-to-widefield-microscopy/)
+- [Confocal Microscopy watch the video](https://en.wikipedia.org/wiki/Confocal_microscopy)
+
+# Missing Cone Problem 
+
+- [Wide_field -> Missing cone](https://en.wikipedia.org/wiki/Optical_transfer_function)
+- but Why??
+
+
 # Bright Field & Dark Field
 
 - https://www.youtube.com/watch?v=4RCQhrd02Ug
