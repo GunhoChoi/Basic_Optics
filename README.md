@@ -30,6 +30,10 @@
 - UC Berkeley Prof. Laura Waller
   - https://www.youtube.com/watch?v=nlMqwWDLnfA&t=1540s
 
+# Camera Simulator
+
+- [Hamamatsu](https://www.hamamatsu.com/sp/sys/en/camera_simulator/index.html)
+
 # Blogs
 
 - [Olympus Microscopy Research Center](https://www.olympus-lifescience.com/en/microscope-resource/)
