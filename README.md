@@ -55,6 +55,7 @@
 # Quantum Efficiency
 
 - [Camera Sensitivity](https://www.ptgrey.com/white-paper/id/10912)
+- [Quantum Efficiency](https://www.youtube.com/watch?reload=9&v=_KMKYIw8ivc)
 
 # Noise
 
