@@ -45,8 +45,16 @@
 
 # Missing Cone Problem 
 
-- [Wide_field -> Missing cone](https://en.wikipedia.org/wiki/Optical_transfer_function)
+- [Wide_field -> Missing cone ?](https://en.wikipedia.org/wiki/Optical_transfer_function)
 - but Why??
+
+# Quantum Efficiency
+
+- [Camera Sensitivity](https://www.ptgrey.com/white-paper/id/10912)
+
+# Noise
+
+- [Shot Noise](https://www.youtube.com/watch?v=-Cl2DBYXDhY)
 
 
 # Bright Field & Dark Field
