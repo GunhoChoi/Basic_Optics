@@ -65,6 +65,7 @@
 
 - [What is off-axis holography](http://wavefrontshaping.net/index.php/63-community/tutorials/phase-measurement/94-off-axis-holography)
 - [What is Hologram?](https://slideplayer.com/slide/13481224/)
+- [Optical Holography ppt](https://www.slideserve.com/fineen/optical-holography)
 
 # Bright Field & Dark Field
 
