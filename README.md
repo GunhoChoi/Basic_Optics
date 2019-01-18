@@ -29,6 +29,8 @@
 
 - UC Berkeley Prof. Laura Waller
   - https://www.youtube.com/watch?v=nlMqwWDLnfA&t=1540s
+  
+- [Introduction to Photonics UW](http://faculty.washington.edu/lylin/EE485W04/schedule.html)
 
 # Camera Simulator
 
@@ -67,6 +69,7 @@
 - [What is Hologram?](https://slideplayer.com/slide/13481224/)
 - [Optical Holography ppt](https://www.slideserve.com/fineen/optical-holography)
 - [I don't understand this right now but..](https://www.intechopen.com/books/holographic-materials-and-optical-systems/surface-characterization-by-the-use-of-digital-holography)
+- [+1,0,-1 order](https://www.researchgate.net/figure/Viewing-geometry-for-an-off-axis-Fresnel-hologram_fig1_324810319)
 
 # Bright Field & Dark Field
 
